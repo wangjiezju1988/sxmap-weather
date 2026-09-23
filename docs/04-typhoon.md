@@ -69,7 +69,8 @@
 3. [五项结构比值：AQI 只回答「污染程度」](03-structure-ratios.md)
 4. **台风页怎么用：多机构对比、风圈与叠加图层**（本篇）
 5. [定位与时间轴：搜索、点选、经纬度与 16 天](05-find-and-time.md)
-6. [地球模式与火点监测](06-globe-and-fire.md)
-7. [用一句话问天气：AI 助手怎么用](07-ai-assistant.md)
+6. [地球模式](06-globe.md)
+7. [火点监测：当日地表高温点的读法](07-fire.md)
+8. [用一句话问天气：AI 助手怎么用](08-ai-assistant.md)
 
 [← 返回项目总览](../README.md) ｜ 台风页：<https://sxmap.zq12369.com/typhoon>
