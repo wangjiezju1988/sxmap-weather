@@ -12,7 +12,7 @@
 ![预报时效](https://img.shields.io/badge/forecast-120h_%2F_16d-8b5cf6?style=flat-square)
 ![网格分辨率](https://img.shields.io/badge/grid-0.25%C2%B0-f59e0b?style=flat-square)
 
-<img src="https://sxmap.zq12369.com/marketing/global-weather-wind.jpg" alt="数象气象首页：全球风场图层、12 项气象图层面板与 16 天时间轴" width="100%">
+<img src="images/marketing/global-weather-wind.jpg" alt="数象气象首页：全球风场图层、12 项气象图层面板与 16 天时间轴" width="100%">
 
 </div>
 
@@ -70,13 +70,13 @@ PM2.5 / PM10、粗颗粒物占比、O₃ / NO₂、SO₂ / NO₂、CO / PM2.5 �
 
 搜索城市、区县或全球主要城市，点开即可查看**未来 120 小时逐小时**与**未来 16 天逐日**预报，包含气温、降水、风况等要素。地图上的城市标签会同步显示当前图层对应的读数，例如切到风场就显示风速，切到 AQI 就显示空气质量指数。
 
-<img src="https://sxmap.zq12369.com/marketing/global-weather-cities.jpg" alt="城市与区县预报查询：城市标签与预报读数" width="100%">
+<img src="images/marketing/global-weather-cities.jpg" alt="城市与区县预报查询：城市标签与预报读数" width="100%">
 
 ### 3. 全国任意位置网格查询
 
 不止城市。输入经纬度，或直接在地图上点选，把查询落到**具体坐标**——项目所在地、园区周边、郊野与沿途位置都能查看气象网格读数与空气质量插值估算，让城市平均值之外的空间差异也有迹可循。选区后同样显示行政区划边界。
 
-<img src="https://sxmap.zq12369.com/marketing/location-grid-query.jpg" alt="任意位置网格查询：按经纬度或地图点选查询" width="100%">
+<img src="images/marketing/location-grid-query.jpg" alt="任意位置网格查询：按经纬度或地图点选查询" width="100%">
 
 ### 4. 中国空气质量
 
@@ -84,13 +84,13 @@ PM2.5 / PM10、粗颗粒物占比、O₃ / NO₂、SO₂ / NO₂、CO / PM2.5 �
 
 支持**实况、历史回看与 48 小时预测**，切换时页面会如实标注数据口径。
 
-<img src="https://sxmap.zq12369.com/marketing/china-air-quality.jpg" alt="中国空气质量：AQI 色场与城市浓度标签" width="100%">
+<img src="images/marketing/china-air-quality.jpg" alt="中国空气质量：AQI 色场与城市浓度标签" width="100%">
 
 ### 5. 全球空气质量
 
 把视野拉到全球尺度，用模式网格看跨境传输与沙尘过程。中国站点实测与全球模式各有清晰来源，切换时分别标注口径，让不同尺度的环境信息在同一张地图上衔接。
 
-<img src="https://sxmap.zq12369.com/marketing/global-air-quality.jpg" alt="全球空气质量：CAMS / ECMWF 全球网格 AQI 可视化" width="100%">
+<img src="images/marketing/global-air-quality.jpg" alt="全球空气质量：CAMS / ECMWF 全球网格 AQI 可视化" width="100%">
 
 ### 6. 空气质量结构分析
 
@@ -98,13 +98,13 @@ AQI 只回答「有多脏」，结构比值回答「脏在哪」。五项比值�
 
 低浓度分母等异常值不参与计算；比值只作结构线索，不作污染等级判定。
 
-<img src="https://sxmap.zq12369.com/marketing/air-quality-analysis.jpg" alt="空气质量结构分析：五项比值色场与相对高低标签" width="100%">
+<img src="images/marketing/air-quality-analysis.jpg" alt="空气质量结构分析：五项比值色场与相对高低标签" width="100%">
 
 ### 7. 台风路径
 
 实时与历史路径、强度变化、七级与十级风圈、以及**多机构路径预报对比**。各家预报的分歧在地图上一眼可见：路径中心周围的风圈影响范围、逐点的到达时间，都能点开核对。从地图可以一键进入独立台风路径页，把几家预报放在一起对照。
 
-<img src="https://sxmap.zq12369.com/marketing/typhoon-tracking.jpg" alt="台风路径：多机构预报对比与风圈" width="100%">
+<img src="images/marketing/typhoon-tracking.jpg" alt="台风路径：多机构预报对比与风圈" width="100%">
 
 ### 8. 卫星火点监测
 
@@ -112,13 +112,13 @@ AQI 只回答「有多脏」，结构比值回答「脏在哪」。五项比值�
 
 点位仅作高温提示，不等同于已核实的火灾范围、燃烧类型或灾情。
 
-<img src="https://sxmap.zq12369.com/marketing/fire-hotspot-monitoring.jpg" alt="火点监测：当日地表高温点叠加显示" width="100%">
+<img src="images/marketing/fire-hotspot-monitoring.jpg" alt="火点监测：当日地表高温点叠加显示" width="100%">
 
 ### 9. 地球模式
 
 顶栏「地图 / 地球」一键切换平面地图与球面视图。球面投影下风场以流线方式连续呈现，适合从半球尺度观察环流走向、冷暖空气与水汽的输送路径，再顺着路径落回具体城市查看读数。
 
-<img src="https://sxmap.zq12369.com/marketing/earth-mode.jpg" alt="地球模式：球面投影与流线风场" width="100%">
+<img src="images/marketing/earth-mode.jpg" alt="地球模式：球面投影与流线风场" width="100%">
 
 ### 10. 气象 AI 助手
 
@@ -126,7 +126,7 @@ AQI 只回答「有多脏」，结构比值回答「脏在哪」。五项比值�
 
 取数范围包括城市逐小时与逐日预报、按经纬度取指定时刻的模式读数、单城或批量城市的空气质量、以及台风实况与多机构预报路径。每条回答支持复制、语音播报与分享链接。
 
-<img src="https://sxmap.zq12369.com/marketing/ai-weather-assistant.jpg" alt="气象 AI 助手：对话式查询并联动地图" width="100%">
+<img src="images/marketing/ai-weather-assistant.jpg" alt="气象 AI 助手：对话式查询并联动地图" width="100%">
 
 ---
 
