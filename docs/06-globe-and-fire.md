@@ -73,7 +73,7 @@
 
 1. [12 项气象图层怎么选、怎么看](01-weather-layers.md)
 2. [空气质量怎么看：中国站点与全球模式](02-air-quality.md)
-3. [五项结构比值：AQI 只回答「有多脏」](03-structure-ratios.md)
+3. [五项结构比值：AQI 只回答「污染程度」](03-structure-ratios.md)
 4. [台风页怎么用：多机构对比、风圈与叠加图层](04-typhoon.md)
 5. [定位与时间轴：搜索、点选、经纬度与 16 天](05-find-and-time.md)
 6. **地球模式与火点监测**（本篇）
